@@ -1,27 +1,33 @@
-Bullseye App
-This repository contains the Bullseye app, developed as part of the Kodeco course curriculum. Bullseye is a fun and interactive target game where players aim to hit the target as close as possible for maximum points.
+<h1>Bullseye App</h1>
 
-Features
-	•	Interactive Gameplay: Use the slider to aim your shot and hit the bullseye.
-	•	Scoring System: Earn points based on how close your shot is to the target.
-	•	Visual Feedback: Enjoy immediate feedback on your aim with animations and graphics.
-	•	User-Friendly Interface: Simple, intuitive, and engaging UI designed for a seamless experience.
+<p>This repository contains the Bullseye app. Bullseye is a fun and interactive target game where players aim to hit the target as close as possible for maximum points.</p>
 
-Installation
-	1.	Clone the repository
-	2.	Open the project in your preferred IDE (e.g., Xcode for iOS development).
-	3.	Build and run the project on your simulator or device.
+<h2>Features</h2>
+<ul>
+  <li><strong>Interactive Gameplay</strong>: Use the slider to aim your shot and hit the bullseye.</li>
+  <li><strong>Scoring System</strong>: Earn points based on how close your shot is to the target.</li>
+  <li><strong>Visual Feedback</strong>: Enjoy immediate feedback on your aim with animations and graphics.</li>
+  <li><strong>User-Friendly Interface</strong>: Simple, intuitive, and engaging UI designed for a seamless experience.</li>
+</ul>
 
-How to Play
-	1.	Select the Start Game button to begin.
-	2.	Use the slider to choose your aim within the target range.
-	3.	Hit the Hit Me! button to lock in your aim and get your score.
-	4.	Try to get as close to the bullseye as possible for maximum points.
-	5.	Check your score and try to beat your high score in subsequent rounds.
+<h2>Installation</h2>
+<ol>
+  <li>Clone the repository</li>
+  <li>Open the project in your preferred IDE (e.g., Xcode for iOS development).</li>
+  <li>Build and run the project on your simulator or device.</li>
+</ol>
 
-Contributing
-Contributions are welcome! Please fork this repository and submit a pull request with your enhancements or bug fixes.
+<h2>How to Play</h2>
+<ol>
+  <li>Select the <strong>Start Game</strong> button to begin.</li>
+  <li>Use the slider to choose your aim within the target range.</li>
+  <li>Hit the <strong>Hit Me!</strong> button to lock in your aim and get your score.</li>
+  <li>Try to get as close to the bullseye as possible for maximum points.</li>
+  <li>Check your score and try to beat your high score in subsequent rounds.</li>
+</ol>
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-Feel free to modify this description as needed to better fit your project's specifics or personal style.
+<h2>Contributing</h2>
+<p>Contributions are welcome! Please fork this repository and submit a pull request with your enhancements or bug fixes.</p>
+
+<h2>License</h2>
+<p>This project is licensed under the MIT License.</p>
